@@ -14,7 +14,7 @@ A simple and interactive Age Calculator that allows users to input their date of
 ## 🚀 Demo
 
 Check out the live demo of the Age Calculator here: 
-[Live Demo](your-demo-link)
+[Live Demo](https://kaleemsipraa.github.io/Age-Calculator/)
 
 ## 💻 Technologies Used
 
